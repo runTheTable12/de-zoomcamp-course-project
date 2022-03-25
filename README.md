@@ -70,7 +70,7 @@ Log in into it and start working.
 Connect to the DWH following instructions.
  
 The final dashboard:
-![alt text] (https://github.com/pythonicUser/de-zoocamp-course-project/blob/main/project_dashboard.png)
+![alt text](https://github.com/pythonicUser/de-zoocamp-course-project/blob/main/project_dashboard.png)
 
 
 
