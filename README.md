@@ -1,6 +1,6 @@
 This file contains instructions how to run the project.
 
-## 1. Create infrastructure in Yandex Cloud using Terraform.
+## 1. Create infrastructure in Yandex Cloud using Terraform
 
 There are two files in a repository - main.tf and varibles.tf
 
@@ -44,7 +44,7 @@ To create infrastructure run next commands:
 
  To do so, connect to the database via any available client and run the `DWH_creation.sql` script from the `sql` folder.
 
- ## 3. Deploying airlow with data processing DAG and metabase for making a dashboard.
+ ## 3. Deploying airlow with data processing DAG and metabase for making a dashboard
 
  To do this you can just run `docker-compose up`.
 
