@@ -68,6 +68,9 @@ The metabase UI should be available http://127.0.0.1:3000/
 Log in into it and start working.
 
 Connect to the DWH following instructions.
+ 
+The final dashboard:
+![alt text] (https://github.com/pythonicUser/de-zoocamp-course-project/blob/main/project_dashboard.png)
 
 
 
