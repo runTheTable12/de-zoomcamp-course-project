@@ -57,7 +57,7 @@ It is assumed that you have a folder called `data` which has a csv file with dat
 - aws_access_key_id 
 - aws_secret_access_key 
 - bucket_name 
-- pg_conn_string (postgresql://<user name>:<user password>@<host>:<port>/<project name>)
+- pg_conn_string ('postgresql://<user name>:<user password>@<host>:<port>/<project name>')
 
 Then, run `project_dag` to perform the entire ELT process. 
 The `schedule_interval` of a dag is set to `@once` since there is no more data for the given project. However, `schedule_interval` can be changed to another value if there will be a source of similar data. As a result, a batch processing can be done on a reular basis.
