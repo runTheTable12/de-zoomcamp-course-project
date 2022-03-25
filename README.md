@@ -1,1 +1,1 @@
-# de-zoocamp-course-project
+The course project repository. 
